@@ -1,0 +1,39 @@
+{
+  "name": "youtiao-note-windows",
+  "version": "0.1.0",
+  "description": "Youtiao Note is a mind map note web application for programmers.",
+  "main": "main.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starryprogram/youtiao-note.git#windows-0.1.0-dev"
+  },
+  "keywords": [
+    "youtiao",
+    "note",
+    "programmer-oriented",
+    "mind",
+    "map",
+    "innovative",
+    "circuit",
+    "board-inspired",
+    "layered",
+    "note-taking",
+    "database",
+    "support",
+    "cloud",
+    "sync",
+    "cross-platform"
+  ],
+  "author": "starryprogram",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/starryprogram/youtiao-note/issues"
+  },
+  "homepage": "https://github.com/starryprogram/youtiao-note/tree/windows-0.1.0-dev#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
